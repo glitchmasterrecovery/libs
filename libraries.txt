@@ -4,11 +4,17 @@ libmain.so
 libmono.so
 libburst_generated.so
 libbaselib.so
+libwebrtc-audio.so
 libhoudini.so
 libopus_egpv.so
 libunityshadercompiler.so
 libvulkan.so
 libEGL.so
+libInteractionSdk.so
+libovrplatformloader.so
+libSDKTelemetry.so
+libInteractionSdk.so
+libOVRLipSync.so
 liblck_core.so
 liblck_rs.so
 liblck_streaming_rs.so
