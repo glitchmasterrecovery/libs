@@ -4,14 +4,10 @@ libmain.so
 libmono.so
 libburst_generated.so
 libbaselib.so
-libwebrtc-audio.so
 libhoudini.so
-libopus_egpv.so
 libunityshadercompiler.so
 libvulkan.so
 libEGL.so
-libInteractionSdk.so
-libovrplatformloader.so
 libSDKTelemetry.so
 libInteractionSdk.so
 libOVRLipSync.so
@@ -22,10 +18,8 @@ libnative_microphone.so
 libminirtmp.so
 libngfx_rs.so
 libopus_egpv.so
-libovrplatformloader.so
 libAudioPluginOculusSpatializer.so
 LibRuntimeOptimizer.so
-libAudioPluginOculusSpatializer.so
 libwebrtc-audio.so
 libGLESv1_CM.so
 libluau.so
