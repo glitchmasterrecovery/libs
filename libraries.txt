@@ -1,0 +1,175 @@
+```text
+# ==========================================
+# UNITY ENGINE
+# ==========================================
+libunity.so
+libil2cpp.so
+libmain.so
+libmono.so
+libburst_generated.so
+libbaselib.so
+libhoudini.so
+libunityshadercompiler.so
+
+# ==========================================
+# UNITY GRAPHICS
+# ==========================================
+libvulkan.so
+libEGL.so
+libGLESv1_CM.so
+libGLESv2.so
+libGLESv3.so
+libOpenSLES.so
+libaudioplugin.so
+
+# ==========================================
+# META / OCULUS / QUEST
+# ==========================================
+libovrplatformloader.so
+libOVRPlugin.so
+libopenxr_loader.so
+liboculus.so
+libguardian.so
+libquest.so
+libmeta.so
+libxrplugin.so
+libxr_loader.so
+
+# ==========================================
+# QUESTCAM / CAMERA
+# ==========================================
+libQuestCam.so
+libquestcam.so
+libcamera.so
+libcameracapture.so
+libwebcam.so
+libmediandk.so
+libimage.so
+
+# ==========================================
+# LIV CAMERA
+# ==========================================
+libLIV.so
+libliv.so
+liblivsdk.so
+liblivcamera.so
+liblivcamera_sdk.so
+
+# ==========================================
+# PHOTON NETWORKING
+# ==========================================
+libphoton.so
+libphoton3.so
+libphoton-cpp.so
+libPhotonRealtime.so
+libPhotonUnityNetworking.so
+libPhotonVoice.so
+libPhotonVoiceAPI.so
+libPhotonVoiceUnity.so
+libPhotonChat.so
+libPhotonServerSettings.so
+libPhotonNetwork.so
+libPhotonTransport.so
+
+# ==========================================
+# PHOTON FUSION
+# ==========================================
+libfusion.so
+libfusionweaver.so
+libFusion.so
+libFusionNative.so
+libFusionUnity.so
+
+# ==========================================
+# PHOTON SUPPORT
+# ==========================================
+libwebsocket.so
+libenet.so
+libssl.so
+libcrypto.so
+
+# ==========================================
+# PLAYFAB / ONLINE SERVICES
+# ==========================================
+libplayfab.so
+libfirebase.so
+libcrashlytics.so
+libanalytics.so
+libsentry.so
+
+# ==========================================
+# ANDROID SYSTEM LIBRARIES
+# ==========================================
+libc.so
+libm.so
+libdl.so
+liblog.so
+libandroid.so
+libjnigraphics.so
+libz.so
+libbinder.so
+libutils.so
+libnativewindow.so
+libhardware.so
+libbase.so
+libcutils.so
+libprocessgroup.so
+libsync.so
+libui.so
+libgui.so
+libinput.so
+libstagefright.so
+libmedia.so
+libcamera_client.so
+libcamera_metadata.so
+libvndksupport.so
+libnativehelper.so
+libnativeloader.so
+libart.so
+libicu.so
+libandroid_runtime.so
+
+# ==========================================
+# C / C++ RUNTIME
+# ==========================================
+libc++_shared.so
+libstdc++.so
+libgcc.so
+libatomic.so
+libunwind.so
+
+# ==========================================
+# AUDIO
+# ==========================================
+libaaudio.so
+liboboe.so
+libaudioflinger.so
+libaudioclient.so
+libaudioutils.so
+libaudiomanager.so
+libsoundpool.so
+
+# ==========================================
+# GPU / GRAPHICS DRIVERS
+# ==========================================
+libadreno_utils.so
+libgsl.so
+libvulkan_adreno.so
+libvulkan_freedreno.so
+libgpuinfo.so
+libshader.so
+librender.so
+
+# ==========================================
+# IMAGE / COMPRESSION
+# ==========================================
+libpng.so
+libjpeg.so
+libwebp.so
+libtiff.so
+libzip.so
+libarchive.so
+liblz4.so
+liblzma.so
+libzstd.so
+```
